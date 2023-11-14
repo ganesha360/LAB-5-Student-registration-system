@@ -13,7 +13,17 @@ a. Effective for Administration Purpose
 b. Cost effective
 c. Better Service
 ## UML DIAGRAMS:
-## USE 
+```
+## DEVELOPED BY: GANESH R
+## REG NO: 212222240029
+```
+## USE CASE DIAGRAM:
+## ACTIVITY DIAGRAM:
+## SEQUENCE DIAGRAM:
+## CLASS DIAGRAM:
+## PACKAGE DIAGRAM:
+## COMMUNICATION DIAGRAM:
+## STATECHART DIAGRAM:
 
 
 

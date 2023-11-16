@@ -36,6 +36,7 @@ c. Better Service
 ![COMMUNICATION](https://github.com/ganesha360/LAB-5-Student-registration-system/assets/120884552/92f86172-0620-4fce-8019-27e43956c6fe)
 
 ## STATECHART DIAGRAM:
+![Statechart](https://github.com/ganesha360/LAB-5-Student-registration-system/assets/120884552/85cb5a06-7a9d-40cf-9b57-8e71e9f62fc8)
 
 
 
